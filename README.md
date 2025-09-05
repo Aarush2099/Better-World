@@ -97,9 +97,3 @@ flutter build web --web-renderer canvaskit --dart-define AI_API_KEY=<YOUR_KEY>
 ```
 
 ---
-
-## Team Members
-
-Yii Chen            | Dorara
-:-------------------------:|:-------------------------:|
-<img src="https://avatars.githubusercontent.com/u/15103960?v=4" width=100 />  |  <img src="https://avatars.githubusercontent.com/u/16376623?v=4" width=100 />
