@@ -11,9 +11,7 @@
 [https://devpost.com/software/better-world-i8l5sk](https://devpost.com/software/better-world-i8l5sk)
 
 ### 🕹️ Play
-Android - [https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing](https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing) \
-iOS - [https://appstoreconnect.apple.com/apps/6478499075/testflight/ios/6e8c08e4-7b3d-414d-91cc-d9a6fc6c4291](https://appstoreconnect.apple.com/apps/6478499075/testflight/ios/6e8c08e4-7b3d-414d-91cc-d9a6fc6c4291) \
-macOS - [https://appstoreconnect.apple.com/apps/6478499075/testflight/ios/6e8c08e4-7b3d-414d-91cc-d9a6fc6c4291](https://appstoreconnect.apple.com/apps/6478499075/testflight/ios/6e8c08e4-7b3d-414d-91cc-d9a6fc6c4291) \
+Android - [https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing](https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing)
 Web - [envawareness-game.firebaseapp.com](envawareness-game.firebaseapp.com)
 
 ---
@@ -33,7 +31,7 @@ We've also integrated Google Wallet to transform the cards collected in the game
 We developed **Better World** using Flutter, emphasizing interactive and educational game elements with Canvas Widget and Lottie Animations. Gemini AI played a pivotal role in enhancing user interaction, linking in-game actions with real-world contexts.
 
 ## Multiple Platform Support
-**Better World** can run on mobile, desktop, and web. We hope everybody can play on which platform they like. Also, shows how powerful Flutter is.
+**Better World** can run on mobile, desktop, and web. We hope everybody can play on whichever platform they like. Also, shows how powerful Flutter is.
 - iOS - TestFlight to play (store version is in review) [link](https://appstoreconnect.apple.com/apps/6478499075/testflight/ios/6e8c08e4-7b3d-414d-91cc-d9a6fc6c4291)
 - Android - APK link to play (store version in review) [link](https://drive.google.com/file/d/1W1urHskSz4CExiHfgyALQQ3dmRsxQwOD/view)
 - Web - link to play [link](https://envawareness-game.firebaseapp.com/)
