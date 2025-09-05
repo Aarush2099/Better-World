@@ -5,10 +5,7 @@
 **Engage kids in environmental care with our game!** Earn points through eco-challenges like Garbage Sorting, save endangered species, and watch the world grow greener with each action.
 
 ### 📺 Demo
-[https://youtu.be/afh4jGIhhEg?si=b8-b2ijtE8x9zfJB](https://youtu.be/afh4jGIhhEg?si=b8-b2ijtE8x9zfJB)
-
-### 🌎 Devpost
-[https://devpost.com/software/better-world-i8l5sk](https://devpost.com/software/better-world-i8l5sk)
+https://vimeo.com/1116249968?share=copy#t=0
 
 ### 🕹️ Play
 Android - [https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing](https://drive.google.com/file/d/1QWSD3h35g5e2BoWvAZmo6YWLMZ4Ezkp1/view?usp=sharing)
